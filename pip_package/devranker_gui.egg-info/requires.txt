@@ -1,0 +1,7 @@
+pydriller
+more-itertools
+numpy
+pandas
+pathlib
+PySimpleGUI
+python-dateutil

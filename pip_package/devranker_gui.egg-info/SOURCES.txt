@@ -1,0 +1,8 @@
+README.md
+devranker_gui
+setup.py
+devranker_gui.egg-info/PKG-INFO
+devranker_gui.egg-info/SOURCES.txt
+devranker_gui.egg-info/dependency_links.txt
+devranker_gui.egg-info/requires.txt
+devranker_gui.egg-info/top_level.txt
